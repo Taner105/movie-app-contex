@@ -152,8 +152,10 @@ body {
 
 .buttons {
   display: flex;
+  justify-content: flex-end;
   flex-direction: row;
   height: 50px;
+  
 }
 
 .buttons h3 {
